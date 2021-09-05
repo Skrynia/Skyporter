@@ -1,1 +1,1 @@
-# Skypic
+# skype-exporter
